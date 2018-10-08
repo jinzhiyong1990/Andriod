@@ -64,3 +64,4 @@ proguard/
 
 # Log Files
 *.log
+!/src/main/res/layout/activity_main.xml
